@@ -3,8 +3,11 @@
 ### Team Members
 
 Jackie Feminella - jaclynfeminella@gmail.com
+
 Julia Giraldi - jjgiraldi@gmail.com
+
 Daniel Homer - daniel.homer6@gmail.com
+
 John Seo - johndwseo@gmail.com
 
 
@@ -15,11 +18,11 @@ Sparked by the surprisingly low-tech mentor scheduling system (a whiteboard), we
 
 # Getting Started
 
-## 1. Clone There's A Board! repo from github.
+## Clone There's A Board! repo from github.
 
         git clone git@github.com:juli212/Theres-A-Board.git
         
-## 2. Create database user.
+## Create database user.
 
 #### On OSX
 If you're on OSX then you can run the following bootstrap task to setup your system with postgresql, npm, bundler and gulp. It will then create an admin user.
@@ -36,13 +39,13 @@ If running Linux, you'll use:
         \q
         $ logout
 
-## 3. Install dependencies.
+## Install dependencies.
 PubGamer uses [Bundler](http://gembundler.com/) to manage dependencies. If you don't have it, get it. Then install dependencies:
         
         gem install bundler
         bundle install
 
-## 4. Set up database.
+## Set up database.
 
         rake db:create
         rake db:migrate
