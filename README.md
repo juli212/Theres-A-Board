@@ -1,7 +1,11 @@
 # There's A Board!
 
-### Team Members
+### Project Overview
+3 day Dev Bootcamp project. Our stack is Ruby on Rails, PostgreSQL, JavaScript and Bootstrap.
 
+Sparked by the surprisingly low-tech mentor scheduling system (a whiteboard), we resolved to streamline the signup process. Mentors and students alike can create profiles, post and sign up for appointments. All users can leave actionable, specific, and kind feedback on sessions.
+
+### Team Members
 Jackie Feminella - jaclynfeminella@gmail.com
 
 Julia Giraldi - jjgiraldi@gmail.com
@@ -9,12 +13,6 @@ Julia Giraldi - jjgiraldi@gmail.com
 Daniel Homer - daniel.homer6@gmail.com
 
 John Seo - johndwseo@gmail.com
-
-
-### Project Overview
-3 day Dev Bootcamp project. Our stack is Ruby on Rails, PostgreSQL, JavaScript and Bootstrap.
-
-Sparked by the surprisingly low-tech mentor scheduling system (a whiteboard), we resolved to streamline the signup process. Mentors and students alike can create profiles, post and sign up for appointments. All users can leave actionable, specific, and kind feedback on sessions.
 
 # Getting Started
 
